@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siaslas98
+- 👋 Hi, I’m Tre Huang
 - 👀 I’m interested in Full Stack Development and Algorithms 
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 
