@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Tre Huang
-- 👀 I’m interested in Full Stack Development and Algorithms 
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 👋 Hi, I’m Tre Huang and I’m interested in Backend Development and Algorithms 
 
 <!---
 siaslas98/siaslas98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
