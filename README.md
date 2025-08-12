@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tre Huang and I’m interested in Backend Development and Algorithms 
+- 👋 Hi, I’m Tre Huang
 
 <!---
 siaslas98/siaslas98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
